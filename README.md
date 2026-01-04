@@ -1,77 +1,68 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">
+My name is <b>Nilesh Yadav</b> and I’m a <b>Full Stack Web Developer</b> from <b>Mumbai, Maharashtra 🇮🇳</b>.
+</p>
 
-<p align="left">My name is Nilesh Yadav and I'm a  fullStack we developer, from Mumbai Maharashtra</p>
+---
 
-###
+<h2 align="left">👨‍💻 About Me</h2>
 
-<h2 align="left">About me</h2>
+<p align="left">
+✨ Creating bugs since 2023 <br>
+📚 Currently learning how to fix the bugs I create <br>
+🎯 Goal: Build scalable products & generate fewer bugs 😄 <br>
+🎲 Fun fact: JavaScript and time wait for none ⏳
+</p>
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning How to fix bugs<br>🎯 Goals: generating big bugs<br>🎲 Fun fact: javascript and time wait for none</p>
+<h2 align="left">🛠️ Languages & Tools</h2>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<h1 align="left">stats</h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nileshyadav6702/count.svg?"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
 </div>
 
-###
+---
 
-<h2 align="left">connect with me on social media</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nileshyadav6702&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshyadav6702&layout=compact&theme=dracula" height="150"/>
+</div>
+
+---
+
+<h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nilesh-yadav-b34254314/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn"/>
   </a>
-  <a href="rameshkumaryadav1918@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:rameshkumaryadav1918@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="Gmail"/>
   </a>
 </div>
 
-###
-
-<p align="left">Languages and Tools:-</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshyadav6702&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshyadav6702&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://profile-counter.glitch.me/nileshyadav6702/count.svg"/>
 </div>
-
-###
